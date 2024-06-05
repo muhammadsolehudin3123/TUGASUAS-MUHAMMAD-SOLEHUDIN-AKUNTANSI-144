@@ -1,0 +1,16 @@
+id,age,income,gender,education
+1,25,50000,Male,Bachelor
+2,30,60000,Female,Master
+3,22,48000,Female,Bachelor
+4,35,80000,Male,Phd
+5,45,90000,Female,Master
+6,38,75000,Male,Bachelor
+7,29,62000,Female,Phd
+8,50,120000,Male,Master
+9,33,71000,Female,Bachelor
+10,41,85000,Male,Master
+11,28,58000,Female,Bachelor
+12,34,78000,Male,Phd
+13,27,64000,Female,Master
+14,37,74000,Male,Bachelor
+15,31,69000,Female,Phd
