@@ -80,7 +80,23 @@ Ini memberikan gambaran bahwa dalam dataset ini, setiap kota memiliki jumlah ora
    
 Fungsi: Mengelompokkan data berdasarkan usia menggunakan algoritma KMeans.
 
-Penjelasan: Grafik ini menunjukkan tiga kluster yang dihasilkan oleh algoritma KMeans berdasarkan usia. Setiap kluster diwakili oleh warna yang berbeda. Ini membantu dalam memahami bagaimana data usia dikelompokkan.
+Interpretasi Grafik: Kluster Usia
+Grafik yang ditampilkan adalah scatter plot yang menunjukkan kluster-kluster usia. Berikut adalah interpretasi dari grafik tersebut:
+
+Sumbu X (Horizontal): Menunjukkan rentang usia (Usia).
+Sumbu Y (Vertikal): Menunjukkan kluster yang berbeda (Kluster).
+Titik (Scatter): Menunjukkan data individu yang dikategorikan ke dalam kluster-kluster tertentu berdasarkan usia.
+Pengamatan dari Grafik:
+
+Kluster 0 (Merah): Titik-titik kluster 0 berkisar pada usia 25 hingga 34 tahun, dengan sebagian besar data terkonsentrasi pada rentang usia ini. Semua titik berada pada posisi vertikal 0.
+Kluster 1 (Hijau): Titik-titik kluster 1 berada pada usia 45 dan 50 tahun. Semua titik berada pada posisi vertikal 1.
+Kluster 2 (Biru): Titik-titik kluster 2 berkisar pada usia 38 hingga 40 tahun, dengan data terkonsentrasi pada rentang usia ini. Semua titik berada pada posisi vertikal 2.
+Ini memberikan gambaran bahwa data usia dalam dataset terbagi menjadi tiga kluster yang berbeda:
+
+Kluster 0: Mengelompokkan individu yang berusia antara 25 hingga 34 tahun.
+Kluster 1: Mengelompokkan individu yang berusia 45 dan 50 tahun.
+Kluster 2: Mengelompokkan individu yang berusia antara 38 hingga 40 tahun.
+Dengan melihat grafik ini, kita dapat memahami bagaimana usia dalam dataset dikelompokkan ke dalam kluster-kluster yang berbeda, yang dapat membantu dalam analisis lebih lanjut atau pengambilan keputusan yang berbasis pada usia.
 
 ![Cuplikan layar 2024-06-05 071323](https://github.com/muhammadsolehudin3123/muhammad-solehudin_pengkodean-/assets/152485242/ab316239-abd8-4578-8d92-1a5a8c4b0063)
 
@@ -89,5 +105,20 @@ Penjelasan: Grafik ini menunjukkan tiga kluster yang dihasilkan oleh algoritma K
    
 Fungsi: Menampilkan ringkasan statistik usia dalam bentuk box plot
 
-Penjelasan: Box plot ini memberikan informasi tentang median, kuartil, dan outlier dari data usia. Ini adalah cara visual untuk melihat distribusi dan variasi data usia.
+Interpretasi Grafik: Box Plot Usia
+Grafik yang ditampilkan adalah box plot untuk kolom 'Usia'. Berikut adalah interpretasi dari grafik tersebut:
+
+Sumbu X (Horizontal): Menunjukkan rentang usia (Usia).
+Sumbu Y (Vertikal): Menunjukkan jumlah (dalam hal ini, grafik adalah univariat, sehingga semua data diplot pada posisi vertikal yang sama).
+Pengamatan dari Grafik:
+
+Box Plot (Kotak): Menunjukkan rentang interkuartil (IQR), yaitu dari kuartil pertama (Q1) hingga kuartil ketiga (Q3). Ini mencakup 50% data tengah.
+Rentang IQR untuk usia berkisar antara sekitar 28 hingga 40 tahun.
+Garis Tengah (Median): Garis di dalam kotak menunjukkan median usia, yaitu sekitar 33 tahun.
+Whiskers (Garis Horizontal): Menunjukkan rentang data di luar IQR yang masih dianggap sebagai data yang tidak anomali.
+Whiskers menunjukkan rentang usia dari sekitar 24 hingga 50 tahun.
+Outliers: Tidak ada titik outlier yang ditampilkan pada grafik ini, yang berarti semua data berada dalam rentang whiskers.
+Ini memberikan gambaran bahwa distribusi usia dalam dataset memiliki median di sekitar 33 tahun, dengan rentang interkuartil dari sekitar 28 hingga 40 tahun. Rentang usia secara keseluruhan adalah dari sekitar 24 hingga 50 tahun. Box plot ini membantu kita memahami sebaran dan konsentrasi data usia dalam dataset, dengan menunjukkan di mana sebagian besar data berada dan seberapa jauh sebarannya.
+
+
 ![Cuplikan layar 2024-06-05 071334](https://github.com/muhammadsolehudin3123/muhammad-solehudin_pengkodean-/assets/152485242/0144cf15-a7ce-4206-9381-af48e4a91312)
