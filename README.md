@@ -1,17 +1,26 @@
 # BERIKUT ADALAH CARA MENJALANKAN  KODE PYTHON UNTUK YANG TERHUBUNG KE FILE JENIS CSV
 1. masukan buka visual code dan tambhakan extension python pada visual code
 2. domload library python yang dibutuhkan yang terdiri dari
+   
    a. pandas
+   
    b. matplotlib
+   
    c. kmeans
+   
    d. seaborn
+   
 3. buat tabel csv untuk kebutuhan pengkodiangan , berikan nama file data.csv
 4. open folder tempat  kode python yang akan di jalankan  pada visual code
 5. jalankan kode yang tertera di atas
-6. langkah akhir jalankan terminal untuk menghasilkan output yang tertampil di bawah ini, yang terdiri dari 
+6. langkah akhir jalankan terminal untuk menghasilkan output yang tertampil di bawah ini, yang terdiri dari
+   
    a. histogram
+   
    b. bar chart
+   
    c. cluster
+   
    d. box plot 
 
 
