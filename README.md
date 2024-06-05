@@ -38,7 +38,20 @@ NIM    : 12030122130144
    
 Fungsi: Menampilkan distribusi data usia dalam bentuk grafik batang
 
-Penjelasan: Grafik ini menunjukkan bagaimana frekuensi usia tersebar dalam beberapa interval. Semakin tinggi batang, semakin banyak data usia yang termasuk dalam interval tersebut
+Interpretasi Grafik: Distribusi Usia
+Grafik yang ditampilkan adalah histogram untuk kolom 'Usia'. Berikut adalah interpretasi dari grafik tersebut:
+
+Sumbu X (Horizontal): Menunjukkan rentang usia (Usia).
+Sumbu Y (Vertikal): Menunjukkan frekuensi atau jumlah kejadian untuk setiap rentang usia.
+Histogram (Bar): Menunjukkan berapa banyak data (frekuensi) yang berada dalam rentang usia tertentu.
+Pengamatan dari Grafik:
+
+Rentang usia yang paling sering muncul adalah sekitar 25, 30, dan 40 tahun dengan frekuensi tertinggi (2).
+Rentang usia 35 dan 50 tahun memiliki frekuensi yang lebih rendah dibandingkan dengan rentang usia lainnya (1).
+Rentang usia 45 tahun memiliki frekuensi yang paling rendah (0).
+Ini memberikan gambaran bahwa distribusi usia dalam dataset memiliki beberapa puncak pada usia 25, 30, dan 40 tahun. Frekuensi usia menurun pada rentang usia 35, 45, dan 50 tahun. Hal ini menunjukkan variasi dalam distribusi usia tanpa pola distribusi yang halus, sehingga puncak frekuensi lebih terlihat jelas pada usia tertentu.
+
+
 ![Cuplikan layar 2024-06-05 071252](https://github.com/muhammadsolehudin3123/muhammad-solehudin_pengkodean-/assets/152485242/d6ca6882-37d9-4b25-999e-8efb10185f08)
 
 ## bar chart
@@ -46,7 +59,20 @@ Penjelasan: Grafik ini menunjukkan bagaimana frekuensi usia tersebar dalam beber
    
 Fungsi: Menampilkan jumlah orang yang tinggal di setiap kota dalam bentuk grafik batang.
 
-Penjelasan: Grafik ini menunjukkan jumlah orang dalam dataset yang tinggal di berbagai kota. Setiap batang mewakili satu kota, dengan tinggi batang menunjukkan jumlah orang di kota tersebut.
+Interpretasi Grafik: Jumlah Orang per Kota
+Grafik yang ditampilkan adalah bar chart untuk kolom 'Jumlah Orang' per kota. Berikut adalah interpretasi dari grafik tersebut:
+
+Sumbu X (Horizontal): Menunjukkan nama-nama kota.
+Sumbu Y (Vertikal): Menunjukkan jumlah orang di setiap kota.
+Bar (Batang): Menunjukkan berapa banyak orang yang berada di setiap kota.
+Pengamatan dari Grafik:
+
+Jumlah orang di setiap kota adalah sama, yaitu 1 orang per kota.
+Kota-kota yang ditampilkan mencakup New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Fort Worth, dan Columbus.
+Warna bar berbeda-beda untuk setiap kota, memberikan visualisasi yang lebih menarik dan mudah untuk membedakan kota-kota tersebut.
+Ini memberikan gambaran bahwa dalam dataset ini, setiap kota memiliki jumlah orang yang sama, yaitu satu orang per kota. Hal ini menunjukkan distribusi yang merata tanpa adanya kota yang lebih dominan dalam jumlah orang.
+
+
 ![Cuplikan layar 2024-06-05 071311](https://github.com/muhammadsolehudin3123/muhammad-solehudin_pengkodean-/assets/152485242/8083e266-76fb-4c4d-8885-19051aadcc9c)
 
 ## cluster 
