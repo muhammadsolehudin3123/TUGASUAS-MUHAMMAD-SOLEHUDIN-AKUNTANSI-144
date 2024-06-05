@@ -1,4 +1,8 @@
-# BERIKUT ADALAH CARA MENJALANKAN  KODE PYTHON UNTUK YANG TERHUBUNG KE FILE JENIS CSV
+NAMA   : MUHAMMAD SOLEHUDIN
+KELAS  : PEMROGRAMAN DAN PENGKODEAN / D
+NIM    : 12030122130144
+
+# BERIKUT ADALAH CARA MENJALANKAN  KODE PYTHON  YANG TERHUBUNG KE FILE JENIS CSV
 1. masukan buka visual code dan tambhakan extension python pada visual code
 2. domload library python yang dibutuhkan yang terdiri dari
    
